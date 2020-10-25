@@ -1,2 +1,2 @@
 # ps
-Baekjoon Online Judge PS Practice
+PS Practice
