@@ -22,4 +22,3 @@ int main() {
     if (f1 && f2) { cout << "Poor\n"; }
     else { cout << "Lucky\n"; }
 }
-
